@@ -1,3 +1,4 @@
+![logo](https://github.com/wth-amna/wth-amna/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Hamna Nadeem</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align="right" alt="codingGif" width="400" src="https://thumbs.gfycat.com/AltruisticNewKagu-size_restricted.gif">
