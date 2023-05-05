@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hamnanadeem77@gmail.com**
 
-- ⚡ Fun fact **I once programmed a messaging bot for my friend's birthday that wouldn't stop sending her messages - every single minute. Suffice it to say, that was a birthday she'll never forget. xd**
+- ⚡ Fun fact: **I once programmed a messaging bot for my friend's birthday that wouldn't stop sending her messages - every single minute. Suffice it to say, that was a birthday she'll never forget. xd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
